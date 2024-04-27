@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Im nothikhaixd, 'khai' for short.
+
+> 3rd year physics student
+> i use arch btw + hyprland
+> mocha enthusiast
+> loves to sleep
