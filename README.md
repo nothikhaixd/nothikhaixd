@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 => 3rd year physics student\
 => i use arch btw + hyprland\
 => mocha enthusiast\
-=> loves to sleep\
+=> loves to sleep
