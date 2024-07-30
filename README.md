@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ## Im nothikhaixd, 'khai' for short.
 
 => 3rd year physics undergrad student\
-=> i use arch btw + hyprland\
+=> i use arch btw + hyprland (now eos)\
 => mocha enthusiast\
 => loves to sleep
